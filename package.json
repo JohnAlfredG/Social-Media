@@ -1,0 +1,24 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[D\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[D\u001b[B\u001b[C\u001b[B\u001b[D\u001b[A\u001b[D\u001b[D\u001b[D\u001b[CFirst Project\u001b[B\u001b[B\u001b[B\u001b[B"
+  },
+  "author": "John Alfred Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.1",
+    "nodemon": "^1.14.11"
+  }
+}
