@@ -20,5 +20,9 @@
     "jsonwebtoken": "^8.1.1",
     "mongoose": "^5.0.1",
     "nodemon": "^1.14.11"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.8",
+    "@angular/core": "^5.2.4"
   }
 }
